@@ -1,0 +1,17 @@
+{
+    "name": "com.korogames.korotools",
+    "author": "KoroGames",
+    "displayName": "KoroTools",
+    "description": "KoroTools",
+    "unity": "2020.3",
+    "version": "2021.12.22",
+    "keywords": [
+        "tools",
+        "korogames"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/koro-games/KoroTools"
+    }
+}
