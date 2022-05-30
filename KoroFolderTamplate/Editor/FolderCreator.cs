@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace Koro.FolderCreator
+namespace KoroGames.FolderCreator
 {
 
     public class FolderCreator
     {
-        [MenuItem("Tools/Koro/FolderTamplate/Create Tamplate Folders")]
+        [MenuItem("Tools/KoroTo/FolderTamplate/Create Tamplate Folders")]
         static void CreateTamplateFolders()
         {
             CreateFolder("Materials");
