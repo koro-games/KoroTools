@@ -1,5 +1,6 @@
 {
-    "name": "KoroTools.UnityEditor",
+    "name": "KoroGames.KoroFolder.Editor",
+    "rootNamespace": "",
     "references": [],
     "includePlatforms": [
         "Editor"

@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
+using KoroGames.Ads.UnityAds;
 
-namespace KoroGames.Ads.UnityAds
+namespace KoroGames.Ads
 {
     public class AdsWork : MonoBehaviour
     {

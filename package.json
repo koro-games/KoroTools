@@ -1,17 +1,20 @@
 {
-    "name": "com.korogames.korotools",
-    "author": "KoroGames",
-    "displayName": "KoroTools",
-    "description": "KoroTools",
-    "unity": "2020.3",
-    "version": "1.1.0",
-    "keywords": [
-        "tools",
-        "korogames"
-    ],
-    "dependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/koro-games/KoroTools"
-    }
+  "name": "com.korogames.korotools",
+  "author": "KoroGames",
+  "displayName": "KoroTools",
+  "description": "KoroTools",
+  "unity": "2020.3",
+  "version": "1.1.2",
+  "keywords": [
+    "tools",
+    "korogames"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koro-games/KoroTools"
+  },
+  "type": "tool",
+  "dependencies": {
+    "com.unity.ads": "3.7.5"
+  }
 }

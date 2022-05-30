@@ -5,10 +5,9 @@ using UnityEngine;
 
 namespace KoroGames.FolderCreator
 {
-
     public class FolderCreator
     {
-        [MenuItem("Tools/KoroTo/FolderTamplate/Create Tamplate Folders")]
+        [MenuItem("Tools/KoroFolders/FolderTamplate/Create Tamplate Folders")]
         static void CreateTamplateFolders()
         {
             CreateFolder("Materials");

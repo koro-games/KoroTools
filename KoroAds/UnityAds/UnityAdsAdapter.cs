@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Advertisements;
+using KoroGames.Ads;
 
 namespace KoroGames.Ads.UnityAds
 {

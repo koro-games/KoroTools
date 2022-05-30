@@ -1,11 +1,10 @@
 using System;
 using UnityEngine;
 using UnityEngine.Advertisements;
+using KoroGames.Ads;
 
 namespace KoroGames.Ads.UnityAds
 {
-
-
     public class UnityAdInter : UnityAdPlayer, IAdInterstitial, IUnityAdsShowListener
     {
         public override AdType AdPlayerType => AdType.interstitial;
