@@ -1,0 +1,3 @@
+[submodule "KoroBuild"]
+	path = KoroBuild
+	url = https://github.com/koro-games/KoroBuild
