@@ -9,7 +9,7 @@ Unity **2020.1** or later versions.
 
 1. You can also install via git url by adding this entry in your **manifest.json**
 ```
-"com.korogames.korotools": "(https://github.com/koro-games/KoroAds.git"
+"com.korogames.korotools": "(https://github.com/koro-games/KoroTools.git"
 ```
 
 
