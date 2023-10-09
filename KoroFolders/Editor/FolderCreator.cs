@@ -7,7 +7,7 @@ namespace KoroGames.FolderCreator
 {
     public class FolderCreator
     {
-        [MenuItem("Tools/KoroFolders/FolderTamplate/Create Tamplate Folders")]
+        [MenuItem("Tools/KoroTools/FolderTamplate/Create Tamplate Folders")]
         static void CreateTamplateFolders()
         {
             CreateFolder("Materials");
