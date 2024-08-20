@@ -4,7 +4,7 @@
   "displayName": "KoroTools",
   "description": "KoroTools",
   "unity": "2020.3",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "keywords": [
     "korogames"
   ],
@@ -13,7 +13,5 @@
     "url": "https://github.com/koro-games/KoroTools"
   },
   "type": "",
-  "dependencies": {
-    
-  }
+  "dependencies": {}
 }
